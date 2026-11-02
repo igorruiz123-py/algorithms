@@ -43,7 +43,7 @@ int main(void)
 			if (array[j] == array[k])
 			{
 				counter++;
-				freq[j] = 0;
+				freq[k] = 0;
 			}
 		}
 
